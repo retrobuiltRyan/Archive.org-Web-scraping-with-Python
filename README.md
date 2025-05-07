@@ -6,7 +6,7 @@ Python script that creates a .csv of direct URLs, lets you trim contents and aut
 Install instructions: 
 Prereq: Install python (3.1x) from MS store for best integration.
 1) Download everything as a zip. extract.
-2) Launch "install". this will create the python virtual enivronment.
+2) Launch "install". this will create the python virtual enivronment and the correction versions of necessary libraries.
 3) Launch "run", paste a archive.org URL and follow the prompts.
 
 
