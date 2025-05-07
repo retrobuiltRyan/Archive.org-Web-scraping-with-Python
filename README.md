@@ -16,8 +16,7 @@ Prereq: Install python (3.1x) from MS store for best integration.
 
 
 
-You must paste direct download URL's that has a slash at the end. Otherwise the script will error out because the string is missing a "/". 
-good>> https://archive.org/download/Sega-32x-Romset-us/
-bad>>  https://archive.org/download/Sega-32x-Romset-us
+You must paste a direct download URL with a slash ("/") at the end. Otherwise the script will error out because the string is missing a "/". 
+
 
 
