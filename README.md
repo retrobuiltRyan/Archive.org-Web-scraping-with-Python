@@ -5,6 +5,8 @@ https://youtu.be/CbiuUTQPTys
 
 Install instructions: 
 Prereq: Install python (3.1x) from MS store for best integration.
+![image](https://github.com/user-attachments/assets/8b1d3f91-3219-4b96-85ca-90ea24a54de7)
+
 1) Download the zip.
 2) extract these into the same directory
   ![image](https://github.com/user-attachments/assets/c468fc98-77e1-4fa0-9ef9-1054cd883e85)
