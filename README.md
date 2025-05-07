@@ -5,8 +5,9 @@ https://youtu.be/CbiuUTQPTys
 
 Install instructions: 
 Prereq: Install python (3.1x) from MS store for best integration.
-1) Download the zip. extract. these into the same directory
-2) ![image](https://github.com/user-attachments/assets/c468fc98-77e1-4fa0-9ef9-1054cd883e85)
+1) Download the zip.
+2) extract these into the same directory
+  ![image](https://github.com/user-attachments/assets/c468fc98-77e1-4fa0-9ef9-1054cd883e85)
 
 3) Launch "install". this will create the python virtual enivronment and install the correct versions of necessary libraries.
 4) Launch "run", paste a archive.org URL and follow the prompts.
