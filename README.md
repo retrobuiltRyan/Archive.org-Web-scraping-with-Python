@@ -14,9 +14,7 @@ Prereq: Install python (3.1x) from MS store for best integration.
 3) Launch "install". this will create the python virtual enivronment and install the correct versions of necessary libraries.
 4) Launch "run", paste a archive.org URL and follow the prompts.
 
-
-
-You must paste a direct download URL with a slash ("/") at the end. Otherwise the script will error out because the string is missing a "/". 
+Works on public repositories only! 
 
 
 
